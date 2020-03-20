@@ -3,7 +3,7 @@
 - [x] Spettroscopia Gamma
 - [ ] Contatore Geiger
 ___
-___
+
 
 ### Spettroscopia Gamma
 [Link alla cartella](/GammaSpectroscopy)
