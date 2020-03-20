@@ -6,6 +6,7 @@ ___
 
 
 ### Spettroscopia Gamma
+
 [Link alla cartella](/GammaSpectroscopy)
 ####Descrizione misure
 Dataset di Ra226 preso con cristallo di NaI. Voltaggio di alimentazione PMT 600V.
@@ -14,6 +15,7 @@ Fit lineare dei valori medi vs energia.
 ___
 
 ### Contatore Geiger
+
 [Link alla cartella](/Geiger)
 ####Descrizione misure
 
