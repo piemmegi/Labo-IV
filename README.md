@@ -1,6 +1,7 @@
 # Labo-IV
 ## Lista esperimenti
-1. Contatore Geiger
+- [ ] Spettroscopia Gamma
+- [ ] Contatore Geiger
 
 ### Contatore Geiger
 link to folder
