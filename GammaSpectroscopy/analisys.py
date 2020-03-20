@@ -3,7 +3,6 @@ import cupy as cp
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit as fit
 import mplhep
-from sklearn.linear_model import LinearRegression
 plt.style.use(mplhep.style.ATLAS)
 plt.rc('text',usetex=True)
 
