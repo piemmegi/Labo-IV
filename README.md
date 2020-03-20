@@ -9,7 +9,7 @@ ___
 
 [Link alla cartella](/GammaSpectroscopy)
 
-####Descrizione misure
+#### Descrizione misure
 Dataset di Ra226 preso con cristallo di NaI. Voltaggio di alimentazione PMT 600V.
 Fit gaussiano dei picchi in ADC a 77, 185, 241, 295, 351, 609 KeV.
 Fit lineare dei valori medi vs energia.
@@ -19,7 +19,7 @@ ___
 
 [Link alla cartella](/Geiger)
 
-####Descrizione misure
+#### Descrizione misure
 
 1. Centraggio
 1. Misura del rate e poissonianità
