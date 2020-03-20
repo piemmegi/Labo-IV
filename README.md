@@ -8,6 +8,7 @@ ___
 ### Spettroscopia Gamma
 
 [Link alla cartella](/GammaSpectroscopy)
+
 ####Descrizione misure
 Dataset di Ra226 preso con cristallo di NaI. Voltaggio di alimentazione PMT 600V.
 Fit gaussiano dei picchi in ADC a 77, 185, 241, 295, 351, 609 KeV.
@@ -17,6 +18,7 @@ ___
 ### Contatore Geiger
 
 [Link alla cartella](/Geiger)
+
 ####Descrizione misure
 
 1. Centraggio
